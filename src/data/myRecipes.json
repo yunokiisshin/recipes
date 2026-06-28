@@ -1,1 +1,225 @@
-[]
+[
+  {
+    "id": "1782619482825",
+    "title": "みそしる / Miso Soup",
+    "category": "SOUP",
+    "ingredients": [
+      { "key": "onion", "amount": "1" },
+      { "key": "greens", "amount": "any of your choice; plenty" },
+      { "key": "seaweed", "amount": "(optional but nice ;p)" },
+      { "key": "tofu", "amount": "1 package" },
+      { "key": "water", "amount": "Plenty" },
+      { "key": "miso", "amount": "Plenty (see instruction)" },
+      { "key": "dashi", "amount": "1 - 2 packets" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Preperation",
+        "body": "- Boil water in a pot - as much as you want to drink or save :p\n* Before you boil the water, put the Dashi packet into the water for good flavor!\n\n- Cut vegetables into bite sizes while the water boils"
+      },
+      {
+        "heading": "2. Throw 'em in",
+        "body": "- Toss everything into the pot, let it boil for 5+ minutes; if you want a more fresher feel to the vegetables you can boil them for shorter time!\n\n- When the water looks golden, you can remove the Dashi packet out of the soup\n\n- Cut Tofu"
+      },
+      {
+        "heading": "3. Miso & Finish",
+        "body": "- Once the vegetables seem cooked enough, put Tofu in and stop the fire\n\n- Scoop up some Miso with ladle, dip it into the pot, and gently let the Miso dissolve slowly using chopsticks or other utensils.\n\n* A good guideline is to look at the soup's color - when it stops looking watery, the soup is about right! Always sip while adding more to get to the right balance for you :)"
+      }
+    ]
+  },
+  {
+    "id": "1782620046928",
+    "title": "なべ / Nabe",
+    "category": "SOUP",
+    "ingredients": [
+      { "key": "tofu", "amount": "1 package" },
+      { "key": "onion", "amount": "1" },
+      { "key": "carrot", "amount": "1 - 2 sticks" },
+      { "key": "greens", "amount": "I recommend bok choy or napa cabbage!" },
+      { "key": "sesame", "amount": "A dash (Don't do too much like I would :[ )" },
+      { "key": "garlic", "amount": "Spoonful" },
+      { "key": "ginger", "amount": "Spponful (e.g. 2 frozen ginger cubes)" },
+      { "key": "shoyu", "amount": "3 tbsp" },
+      { "key": "mirin", "amount": "2 tbsp" },
+      { "key": "sake", "amount": "1 tbsp" },
+      { "key": "dashi", "amount": "1 - 2 Dashi packets" },
+      { "key": "tsuyu", "amount": "1.5 tbsp" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Preparation",
+        "body": "- Boil water, and while the water heats up put 1 Dashi packet into the pot for base flavor :)\n\n- If pairing with noodles that take a long time to cook, boil water in a separate pot too!\n\n- Cut veggies"
+      },
+      {
+        "heading": "2. Cook & Soup Base",
+        "body": "- Put the veggies into the pot as the water is boiling, harder items first :)\n\n- Add the flavors: for the big pot with ~2L water, I would start with 3 tbsp Shoyu, 2 tbsp Mirin, 1 tbsp Sake, and 2 tbsp Tsuyu! Optionally you can add spicy flavors, such as Shichimi, Gochujang, etc.!\n\n- Add tofu shortly before the veggies are cooked and you are stopping the fire"
+      },
+      {
+        "heading": "Enjoy!",
+        "body": "- Stop the fire whenever the veggies are cooked to your liking!\n\n- Spread a dash of Sesame oil, and enjoy :)"
+      }
+    ]
+  },
+  {
+    "id": "1782627809883",
+    "title": "たまごスープ / Egg Tomato Soup",
+    "category": "SOUP",
+    "ingredients": [
+      { "key": "tomato", "amount": "3" },
+      { "key": "egg", "amount": "3" },
+      { "key": "greens", "amount": "2 green onion (optional)" },
+      { "key": "shoyu", "amount": "3 tbsp" },
+      { "key": "sake", "amount": "3 tbsp" },
+      { "key": "tofu", "amount": "1 package" },
+      { "key": "sesame", "amount": "A dash" },
+      { "key": "ginger", "amount": "Spoonful" },
+      { "key": "tsuyu", "amount": "2 tbsp" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Preparation",
+        "body": "- Boil water\n\n- Cut tomatoes into bitable sizes\n\n- Break & mix up the eggs (don't whisk too much :) )\n\n- Cut tofu into small bites\n\n- Semi-mince green onions (do not have to be too small - up to you!)"
+      },
+      {
+        "heading": "2. Tomato & Soup base",
+        "body": "- Put tomato in as the water is boiling, cook for ~5 minutes\n\n- Add 3 tbsp Shoyu, 3 tbsp Sake, ginger, and 2 tbsp Tsuyu (this one is the heaviest flavor, so add little by little to adjust!)"
+      },
+      {
+        "heading": "3. Wrap up and enjoy!",
+        "body": "- Put green onions in shortly before stopping the fire\n\n- After the fire stops and the soup stops bubbling, add the whisked egg into the soup and let it be cooked\n\n- Add a dash of sesame oil, briefly mix the soup around, and done!"
+      }
+    ]
+  },
+  {
+    "id": "1782629848340",
+    "title": "タンタンメン / Dandan noodle (for 2 big servings!)",
+    "category": "NOODLE",
+    "ingredients": [
+      { "key": "noodle", "amount": "Thin udon or Soumen (skinny noodle)" },
+      { "key": "bok_choy", "amount": "3 bunches" },
+      { "key": "tofu", "amount": "1 package" },
+      { "key": "onion", "amount": "1" },
+      { "key": "ginger", "amount": "spoonful (2 frozen ginger cubes)" },
+      { "key": "garlic", "amount": "2 tsp" },
+      { "key": "water", "amount": "1.5L (~7 cups)" },
+      { "key": "miso", "amount": "8 tbsp" },
+      { "key": "tsuyu", "amount": "1 tbsp" },
+      { "key": "sesame_seeds", "amount": "Plenty, ground" },
+      { "key": "honey", "amount": "1 tbsp" },
+      { "key": "oat_milk", "amount": "900mL (a bit less than 4 cups!)" },
+      { "key": "dashi", "amount": "1 - 2 packets" },
+      { "key": "shoyu", "amount": "1 tbsp" },
+      { "key": "toubanjan", "amount": "1 tbsp" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Cook the ingredients (if you want the lazy way, just do the pan part in the same soup pot :] )",
+        "body": "- Boil 1.5L water in kettle\n\n- Boil plenty water in a separate pot for noodles\n\n- Cut the vegetables into preferred sizes\n\n- Put pan on medium heat (if going the lazy way, use the soup pot from here on)\n\n- Put in:\n    - a dash of sesame oil, \n    - 1 tbsp Shoyu,\n    - 1 tbsp Toubanjan, \n    - 1 tbsp garlic, \n    - 2 ginger cubes, \n    - dash of honey\n\n- put onion, then veggies, then tofu!\n\n- Once cooked enough, heat off and let it sit a while\n"
+      },
+      {
+        "heading": "2. Noodle Prep",
+        "body": "- Put the amount of noodle you want Into the noodle pot\n\n- keep a timer :)\n\n- whenever it's done, drain the water, and wash the noodle to get rid of the slimey texture on the cooked noodle!"
+      },
+      {
+        "heading": "3. Soup Prep",
+        "body": "- (If we are doing the lazy way, the ingredients should already be sitting and cooked in this pot!)\n\n- Put 1.5L kettle-boiled water into a big pot (should not be actively boiling :] )\n\n- Add:\n    - 8 tbsp miso, \n    - 1 -2 Dashi packet,\n    - 1 tbsp Tsuyu\n    - 900 mL / 4 cups of oat milk\n and heat until briefly boiled\n\n- Then stop the fire, sprinkle the ground sesame seeds, and let it rest!"
+      },
+      {
+        "heading": "Enjoy!",
+        "body": "Serve the amount you like, and enjoy! "
+      }
+    ]
+  },
+  {
+    "id": "1782630460307",
+    "title": "Egg n' Tomato",
+    "category": "MAIN DISH",
+    "ingredients": [
+      { "key": "egg", "amount": "3" },
+      { "key": "tomato", "amount": "3" },
+      { "key": "shoyu", "amount": "3 tbsp" },
+      { "key": "honey", "amount": "2 dashes" },
+      { "key": "water", "amount": "a lil bit" },
+      { "key": "tofu", "amount": "0.5 - 1 package (optional)" },
+      { "key": "greens", "amount": "green onions (optional)" },
+      { "key": "mirin", "amount": "2 tbsp" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Preparation",
+        "body": "- Wash and cut up ingredients\n\n- Whisk eggs"
+      },
+      {
+        "heading": "2. Cook the egg",
+        "body": "- Pan in medium heat; put a generous amount of olive oil (in general, the more oil the fluffier the eggs become :) )\n\n- Grab a bowl or container for egg's escape\n\n- put in the eggs; watch as it hardens and fluffs up; gently break apart the egg into smaller pieces, and before it completely hardens  (a bit runny here and there is good), put it away into a bowl "
+      },
+      {
+        "heading": "3. Tomato time",
+        "body": "- Put the cut up tomatoes into the same pan\n\n- Add a lil bit of water (the more water you add, the soupier and also milder taste)\n\n- Add 3 tbsp Shoyu, 2 tbsp Mirin, dash of honey\n\n- let it cook, occasionally stir"
+      },
+      {
+        "heading": "Combine & enjoy",
+        "body": "- Put the eggs back into the pan with tomatoes in it\n\n- Mix up well, then put green onions if you have them :)\n\nEnjoy!"
+      }
+    ]
+  },
+  {
+    "id": "1782631077957",
+    "title": "ヴィーガンじゃが / Vegan Japanese Potato Stew",
+    "category": "MAIN DISH",
+    "ingredients": [
+      { "key": "potato", "amount": "3" },
+      { "key": "onion", "amount": "1" },
+      { "key": "carrot", "amount": "2 sticks" },
+      { "key": "mirin", "amount": "4 tbsp" },
+      { "key": "shoyu", "amount": "3 tbsp" },
+      { "key": "sake", "amount": "3 tbsp" },
+      { "key": "honey", "amount": "1 tbsp" },
+      { "key": "tofu", "amount": "1 package (optional)" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Preparation",
+        "body": "- Cut the potatoes and carrots into small blocks; onions into small long pieces"
+      },
+      {
+        "heading": "2. Fry 'em in a pot",
+        "body": "- Cook onions in a pot till it's golden. Use half a cup of water instead of oil for more hardcore vegan like your mom :p\n\n- Put the cut up potatoes and carrots into the pot"
+      },
+      {
+        "heading": "3. Stewwww",
+        "body": "- Put water into the pot, so that the ingredients are mostly simmering in the water (few corners and bits poking up is good)\n\n- Add: \n    - 4 tbsp Mirin\n    - 3 tbsp Shoyu\n    - 3 tbsp Sake\n    - 1 tbsp honey\n\n- Let it cook for 20-30 minutes!"
+      },
+      {
+        "heading": "Enjoy!",
+        "body": "When the ingredients are super soft and chopsticks can easily puncture them, it's good to go!"
+      }
+    ]
+  },
+  {
+    "id": "1782654417259",
+    "title": "Vinegar-flavored napa cabbage",
+    "category": "MAIN DISH",
+    "ingredients": [
+      { "key": "napa_cabbage", "amount": "Plenty" },
+      { "key": "ginger", "amount": "2 ginger cubes / spoonful" },
+      { "key": "garlic", "amount": "1 tbsp" },
+      { "key": "vinegar", "amount": "4 tbsp" },
+      { "key": "oyster_sauce", "amount": "2 tbsp" }
+    ],
+    "sections": [
+      {
+        "heading": "1. Preparation",
+        "body": "- Wash and cut the veggies\n\n- heat up the pan in medium~high heat"
+      },
+      {
+        "heading": "2. Cook & Go",
+        "body": "- Put a dash of olive oil into the pan\n\n- Add 1 tbsp garlic, 2 ginger cubes (if using actual garlic, it's fun to cut them into long, thin strips!), and cook them for a little while"
+      },
+      {
+        "heading": "3. Add everything",
+        "body": "- Add veggies, 4 tbsp vinegar, 2 tbsp oyster sauce, mix and cook to your liking\n\nEnjoy!"
+      }
+    ]
+  }
+]

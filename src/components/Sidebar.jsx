@@ -2,8 +2,10 @@ import { Plus, ChefHat } from 'lucide-react'
 import { CATEGORY_ORDER } from '../data/recipes'
 
 export default function Sidebar({ recipes, selectedId, onSelect, onAdd, isOpen, onClose }) {
-  const present = new Set(recipes.map(r => r.category))
-  const categories = CATEGORY_ORDER.filter(c => present.has(c))
+  const present = [...new Set(recipes.map(r => r.category))]
+  const ordered = CATEGORY_ORDER.filter(c => present.includes(c))
+  const extra = present.filter(c => !CATEGORY_ORDER.includes(c))
+  const categories = [...ordered, ...extra]
 
   return (
     <aside className={`
